@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"testing"
 
-	"gorm.io/datatypes"
+	"github.com/CHneger/datatypes"
 	. "gorm.io/gorm/utils/tests"
 )
 
